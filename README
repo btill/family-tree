@@ -1,0 +1,4 @@
+familytree
+
+install geopy package:
+$ sudo pip install geopy
